@@ -1,0 +1,16 @@
+{
+  "name": "backend4_project",
+  "version": "1.0.0",
+  "description": "project like youtube",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "nishant yadav",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
